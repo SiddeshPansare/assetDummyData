@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "certificateNumber": "451189",
+      "faceValue": "10000",
+      "maturityAmount": "April 2021",
+      "maturityValue": "14464",
+    },
+    {
+      "id": 2,
+      "certificateNumber": "457889",
+      "faceValue": "10000",
+      "maturityAmount": "April 2021",
+      "maturityValue": "14464",
+    },
+    {
+      "id": 3,
+      "certificateNumber": "456746",
+      "faceValue": "10000",
+      "maturityAmount": "April 2021",
+      "maturityValue": "14464",
+    },
+    {
+      "id": 4,
+      "certificateNumber": "454689",
+      "faceValue": "10000",
+      "maturityAmount": "April 2021",
+      "maturityValue": "14464",
+    }
+  ],
+}
